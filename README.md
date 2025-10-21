@@ -18,5 +18,4 @@
 
 ## About this project
 - Developed in C language
-- Uses file handling for persistence
 - Designed with simplicity in mind
